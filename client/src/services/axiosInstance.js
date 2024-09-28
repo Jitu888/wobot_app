@@ -7,7 +7,7 @@ const axiosInstance = axios.create({
   timeout: 5000,
   headers: {
     'Content-Type': 'application/json',
-    'Authorization':apiKey
+    'Authorization': "Bearer 4ApVMIn5sTxeW7GQ5VWeWiy"
   },
 });
 

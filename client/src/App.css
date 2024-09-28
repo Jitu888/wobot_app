@@ -1,0 +1,21 @@
+.mainDiv{
+  padding: 0 50px 20px 50px;
+  background-color: #ebe6e6;
+}
+.titleBox{
+  padding: 100px 0 ;
+}
+
+#circle {
+    width: 100%;
+    height: 100%;
+    transform: rotate(135deg);
+  }
+  #circle-percentage {
+    position: absolute;
+    color: #444;
+    top: -3em;
+    left: 0.3em;
+    right: 0;
+    font-size: 4em;
+  }
